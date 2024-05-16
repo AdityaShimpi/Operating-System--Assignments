@@ -14,3 +14,6 @@ To execute:
 './[file_name]'
 
 
+echo "alias lsa='ls -la'" >> ~/.bashrc : to use the created alias in all sessions persistently. 
+
+
